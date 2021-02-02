@@ -6,4 +6,4 @@ It works by creating a md5 hash of the entered password, then the page tries to 
 
 It also uses cookies to remember you being logged in!
 
-[Check it out]()
+[Check it out](https://stolksdorf.github.io/protected_gh_pages/)
