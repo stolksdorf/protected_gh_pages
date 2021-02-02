@@ -1,7 +1,9 @@
-# INteractive Workshops
+# Password Protected Github Pages
 
-This is some cool shit
+This is a demo of adding password protection to public github pages. 
 
-Contact Katie for more info
+It works by creating a md5 hash of the entered password, then the page tries to load content from a folder by that hash. If it can't find it the password was wrong, if it can, it loads the new page fine. 
 
-[Check it out](https://stolksdorf.github.io/test_repo)
+It also uses cookies to remember you being logged in!
+
+[Check it out]()
